@@ -1,0 +1,1303 @@
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+elapsed: 27.849570274353027  Score: 3.5962  Scores: [2.6046682748274526, 4.0120787734175165, 3.614372634049653, 4.205385832171547, 4.0984877722615405, 3.042455578477576]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+elapsed: 26.201873540878296  Score: 3.5962  Scores: [2.6046683074178985, 4.012078785488763, 3.6143726061182266, 4.205385828702663, 4.0984877419236225, 3.0424556479708835]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+elapsed: 26.23598575592041  Score: 3.5962  Scores: [2.6046683074178985, 4.012078785488763, 3.6143726061182266, 4.205385828702663, 4.0984877419236225, 3.0424556479708835]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+elapsed: 15.114129304885864  Score: 3.5527  Scores: [3.9181777581837034, 3.27539517527197, 3.2454610895930327, 3.009438847288179, 3.8684957286231265, 3.9992288615439437]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-large",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 1024,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+elapsed: 39.8449649810791  Score: 3.1762  Scores: [3.0061589545624727, 3.186271467154909, 3.0528703937650765, 3.467048123716753, 3.1201123904970705, 3.224769108368505]
+max_len: 1428
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+elapsed: 47.31318640708923  Score: 2.8066  Scores: [3.310465571106307, 3.2073905181930242, 2.664097122519671, 2.7475528715986055, 2.0511008497068546, 2.8586966050737668]
+max_len: 1428
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-large",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 1024,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+elapsed: 27.183263063430786  Score: 3.5962  Scores: [2.6046682625186652, 4.012078764045909, 3.6143726108648297, 4.205385841775138, 4.098487795292365, 3.0424556283069353]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+elapsed: 15.749422788619995  Score: 3.5527  Scores: [3.9181777674852607, 3.275395178440769, 3.245461075713077, 3.0094388405109473, 3.8684957387900427, 3.9992288653638672]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-large",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 1024,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+elapsed: 41.02914834022522  Score: 3.1762  Scores: [3.0061589706402514, 3.1862714655492104, 3.052870397188061, 3.4670481355188074, 3.120112398189418, 3.2247691020099225]
+max_len: 1428
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+elapsed: 44.21072793006897  Score: 2.8066  Scores: [3.3104655705821444, 3.207390516695332, 2.6640971301250844, 2.747552869539866, 2.0511008471668277, 2.858696611531169]
+max_len: 1428
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-large",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 1024,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+elapsed: 110.59342980384827  Score: 3.0983  Scores: [2.6722120121628716, 2.667940726457255, 3.737533852561663, 3.046421071855942, 3.1809569922774683, 3.2848597555425014]
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+RobertaConfig {
+  "_name_or_path": "roberta-base",
+  "architectures": [
+    "RobertaForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "eos_token_id": 2,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 514,
+  "model_type": "roberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 50265
+}
+
+elapsed: 10.614561557769775  Score: 3.4012  Scores: [4.260894268162249, 3.83040668147812, 3.168135352338388, 2.274646777940672, 3.965033304792988, 2.908050804063045]
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+RobertaConfig {
+  "_name_or_path": "roberta-base",
+  "architectures": [
+    "RobertaForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "eos_token_id": 2,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 514,
+  "model_type": "roberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 50265
+}
+
+elapsed: 11.167296409606934  Score: 3.4012  Scores: [4.260894268162249, 3.83040668147812, 3.168135352338388, 2.274646777940672, 3.965033304792988, 2.908050804063045]
+RobertaConfig {
+  "_name_or_path": "roberta-large",
+  "architectures": [
+    "RobertaForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "eos_token_id": 2,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 514,
+  "model_type": "roberta",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 50265
+}
+
+elapsed: 27.41542649269104  Score: 3.4616  Scores: [3.824025935361352, 3.0373064513036256, 4.370507030352519, 2.8703215495677736, 3.73192891614583, 2.9357661412775675]
+BertConfig {
+  "_name_or_path": "bert-large-uncased",
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+elapsed: 27.90975856781006  Score: 3.5962  Scores: [2.6046682625186652, 4.012078764045909, 3.6143726108648297, 4.205385841775138, 4.098487795292365, 3.0424556283069353]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+elapsed: 16.515727758407593  Score: 3.5527  Scores: [3.9181777674852607, 3.275395178440769, 3.245461075713077, 3.0094388405109473, 3.8684957387900427, 3.9992288653638672]
+DebertaConfig {
+  "_name_or_path": "microsoft/deberta-large",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 1024,
+  "pos_att_type": [
+    "c2p",
+    "p2c"
+  ],
+  "position_biased_input": false,
+  "relative_attention": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 50265
+}
+
+elapsed: 41.135398864746094  Score: 3.1762  Scores: [3.0061589706402514, 3.1862714655492104, 3.052870397188061, 3.4670481355188074, 3.120112398189418, 3.2247691020099225]
+max_len: 1428
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+elapsed: 43.82824778556824  Score: 2.8066  Scores: [3.3104655705821444, 3.207390516695332, 2.6640971301250844, 2.747552869539866, 2.0511008471668277, 2.858696611531169]
+max_len: 1428
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-large",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 1024,
+  "initializer_range": 0.02,
+  "intermediate_size": 4096,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 24,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 1024,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+elapsed: 109.84824299812317  Score: 3.0983  Scores: [2.6722120121628716, 2.667940726457255, 3.737533852561663, 3.046421071855942, 3.1809569922774683, 3.2848597555425014]
+RobertaConfig {
+  "_name_or_path": "roberta-base",
+  "architectures": [
+    "RobertaForMaskedLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "bos_token_id": 0,
+  "classifier_dropout": null,
+  "eos_token_id": 2,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 514,
+  "model_type": "roberta",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 50265
+}
+
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+elapsed: 10.542212724685669  Score: 3.4012  Scores: [4.260894268162249, 3.83040668147812, 3.168135352338388, 2.274646777940672, 3.965033304792988, 2.908050804063045]
+elapsed: 28.068959712982178  Score: 3.4616  Scores: [3.824025935361352, 3.0373064513036256, 4.370507030352519, 2.8703215495677736, 3.73192891614583, 2.9357661412775675]
+elapsed: 27.995178699493408  Score: 3.5962  Scores: [2.6046682625186652, 4.012078764045909, 3.6143726108648297, 4.205385841775138, 4.098487795292365, 3.0424556283069353]
+elapsed: 16.62275528907776  Score: 3.5527  Scores: [3.9181777674852607, 3.275395178440769, 3.245461075713077, 3.0094388405109473, 3.8684957387900427, 3.9992288653638672]
+elapsed: 41.663766622543335  Score: 3.1762  Scores: [3.0061589706402514, 3.1862714655492104, 3.052870397188061, 3.4670481355188074, 3.120112398189418, 3.2247691020099225]
+max_len: 1428
+elapsed: 43.94912028312683  Score: 2.8066  Scores: [3.3104655705821444, 3.207390516695332, 2.6640971301250844, 2.747552869539866, 2.0511008471668277, 2.858696611531169]
+max_len: 1428
+elapsed: 110.00858306884766  Score: 3.0983  Scores: [2.6722120121628716, 2.667940726457255, 3.737533852561663, 3.046421071855942, 3.1809569922774683, 3.2848597555425014]
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+elapsed: 9.961726665496826  Score: 3.4000  Scores: [4.25976537950321, 3.830826924220363, 3.166858314167809, 2.2721728209833523, 3.963021832223811, 2.9072844105840665]
+elapsed: 25.4292151927948  Score: 3.4606  Scores: [3.8235615101376017, 3.035674582563232, 4.369262048501555, 2.8693100703457137, 3.7302367635166873, 2.935426919272714]
+elapsed: 26.271708011627197  Score: 3.5954  Scores: [2.6020987543262737, 4.0124894470295045, 3.613291416760218, 4.203115650484844, 4.099765261830494, 3.041760922822812]
+elapsed: 14.745060443878174  Score: 3.5525  Scores: [3.9183107831832906, 3.2757953723064968, 3.2459462925212543, 3.0062263814688137, 3.8686190785731758, 4.000145068388518]
+elapsed: 39.64821100234985  Score: 3.1762  Scores: [3.006709614112054, 3.1857280399082124, 3.053654083360321, 3.4653798963816627, 3.1215138097067783, 3.2239316444423722]
+max_len: 1428
+elapsed: 41.87788152694702  Score: 2.8070  Scores: [3.3088023678806873, 3.208688472169615, 2.666601587782725, 2.750431307257584, 2.047148543960122, 2.860318904167301]
+max_len: 1428
+elapsed: 110.11884570121765  Score: 3.0984  Scores: [2.6731339135726166, 2.669996109789737, 3.7373904173132084, 3.0437461367078233, 3.18220782887912, 3.283803822909051]
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+elapsed: 10.627695560455322  Score: 3.4012  Scores: [4.260894268162249, 3.83040668147812, 3.168135352338388, 2.274646777940672, 3.965033304792988, 2.908050804063045]
+elapsed: 25.95647382736206  Score: 3.4616  Scores: [3.824025935361352, 3.0373064513036256, 4.370507030352519, 2.8703215495677736, 3.73192891614583, 2.9357661412775675]
+elapsed: 27.908170461654663  Score: 3.5962  Scores: [2.6046682625186652, 4.012078764045909, 3.6143726108648297, 4.205385841775138, 4.098487795292365, 3.0424556283069353]
+elapsed: 16.38066053390503  Score: 3.5527  Scores: [3.9181777674852607, 3.275395178440769, 3.245461075713077, 3.0094388405109473, 3.8684957387900427, 3.9992288653638672]
+elapsed: 39.75361657142639  Score: 3.1762  Scores: [3.0061589706402514, 3.1862714655492104, 3.052870397188061, 3.4670481355188074, 3.120112398189418, 3.2247691020099225]
+max_len: 1428
+elapsed: 42.55713963508606  Score: 2.8066  Scores: [3.3104655705821444, 3.207390516695332, 2.6640971301250844, 2.747552869539866, 2.0511008471668277, 2.858696611531169]
+max_len: 1428
+elapsed: 109.25338554382324  Score: 3.0983  Scores: [2.6722120121628716, 2.667940726457255, 3.737533852561663, 3.046421071855942, 3.1809569922774683, 3.2848597555425014]
+elapsed: 10.8422372341156  Score: 3.4000  Scores: [4.25976537950321, 3.830826924220363, 3.166858314167809, 2.2721728209833523, 3.963021832223811, 2.9072844105840665]
+elapsed: 26.648623943328857  Score: 3.4606  Scores: [3.8235615101376017, 3.035674582563232, 4.369262048501555, 2.8693100703457137, 3.7302367635166873, 2.935426919272714]
+elapsed: 27.0804283618927  Score: 3.5954  Scores: [2.6020987543262737, 4.0124894470295045, 3.613291416760218, 4.203115650484844, 4.099765261830494, 3.041760922822812]
+elapsed: 15.691522598266602  Score: 3.5525  Scores: [3.9183107831832906, 3.2757953723064968, 3.2459462925212543, 3.0062263814688137, 3.8686190785731758, 4.000145068388518]
+elapsed: 40.103654623031616  Score: 3.1762  Scores: [3.006709614112054, 3.1857280399082124, 3.053654083360321, 3.4653798963816627, 3.1215138097067783, 3.2239316444423722]
+max_len: 1428
+elapsed: 43.46380043029785  Score: 2.8070  Scores: [3.3088023678806873, 3.208688472169615, 2.666601587782725, 2.750431307257584, 2.047148543960122, 2.860318904167301]
+max_len: 1428
+elapsed: 111.43444633483887  Score: 3.0984  Scores: [2.6731339135726166, 2.669996109789737, 3.7373904173132084, 3.0437461367078233, 3.18220782887912, 3.283803822909051]
+elapsed: 10.242396354675293  Score: 3.4009  Scores: [4.260501425364911, 3.8315728287974578, 3.167832094109007, 2.273494850361634, 3.963814699130999, 2.9080097675818797]
+elapsed: 27.042507886886597  Score: 3.4610  Scores: [3.8235869495342114, 3.035663053367719, 4.369827027504238, 2.870443030960163, 3.729564291343547, 2.9369799674289085]
+elapsed: 27.57567286491394  Score: 3.5959  Scores: [2.603919347583236, 4.011908383198974, 3.61324540829654, 4.205329268061076, 4.09864489905137, 3.0421764344337516]
+elapsed: 15.856961965560913  Score: 3.5523  Scores: [3.9187829700045436, 3.2741857171226383, 3.245561822525648, 3.0073081548866045, 3.868847969943497, 3.9988589809630004]
+elapsed: 41.16623520851135  Score: 3.1767  Scores: [3.0084042243250173, 3.1856247942410505, 3.0537711916277384, 3.4666398110201, 3.1206156260185423, 3.2250989643102757]
+max_len: 1428
+elapsed: 43.11791658401489  Score: 2.8070  Scores: [3.3087362293985847, 3.2085678901552206, 2.665507429090621, 2.749363377749939, 2.0492089603013754, 2.8608675660121032]
+max_len: 1428
+elapsed: 110.98376059532166  Score: 3.0987  Scores: [2.6743132616731766, 2.6703273461401085, 3.737549660630699, 3.044817695661899, 3.1801791928804373, 3.2851667947736947]
+elapsed: 10.895813703536987  Score: 3.4001  Scores: [4.26039848882959, 3.8313954533799315, 3.168285695932416, 2.2712441144539794, 3.96485618455088, 2.904647166093341]
+elapsed: 27.104012489318848  Score: 3.4612  Scores: [3.8223983045675127, 3.0374575251872624, 4.371044587117811, 2.870742727327972, 3.7322538070050677, 2.933379048859254]
+elapsed: 27.676589488983154  Score: 3.5956  Scores: [2.602560475653804, 4.012318868290044, 3.61334869634317, 4.205020172910986, 4.099149795819028, 3.040931521680999]
+elapsed: 16.322347402572632  Score: 3.5531  Scores: [3.918449889260819, 3.2750110294512167, 3.2452823260913783, 3.0077091608466318, 3.8704092377816717, 4.002008262246667]
+elapsed: 40.50576877593994  Score: 3.1762  Scores: [3.006661285004867, 3.186301918089733, 3.053863217263601, 3.466699116043627, 3.119312367536617, 3.224293868691501]
+max_len: 1428
+elapsed: 42.271212339401245  Score: 2.8066  Scores: [3.3088173395706457, 3.2081511001883847, 2.6654844311932537, 2.747704852260065, 2.048600463765948, 2.86105811114753]
+max_len: 1428
+elapsed: 106.96871089935303  Score: 3.0989  Scores: [2.6742975054014044, 2.6702145718293813, 3.7372187184405505, 3.044835032894453, 3.1814935124468886, 3.285338392994493]
+========== fold: 1 training ==========
+elapsed: 10.480361223220825  Score: 3.1323  Scores: [3.755206274247181, 3.0937002364383126, 2.7414256832550286, 2.8593152871182985, 2.927769174652172, 3.4162266082044117]
+elapsed: 27.54711675643921  Score: 3.7600  Scores: [4.019442720274625, 4.033917897400909, 3.7478153811625226, 3.4466814715483856, 3.4624210742661563, 3.8499397320282114]
+elapsed: 27.844634532928467  Score: 3.6598  Scores: [2.7854488696244966, 3.9574829427502456, 3.939444443676384, 3.8139102931811255, 3.616378102527094, 3.8458686244077884]
+elapsed: 16.207918167114258  Score: 3.3043  Scores: [4.188669622850709, 3.140638346463315, 3.586024879350278, 3.2945619705555607, 2.9849487545166937, 2.631109729728071]
+elapsed: 40.496320486068726  Score: 3.3978  Scores: [3.5331579093261367, 2.484248763526082, 3.9582894424629864, 4.510328703305807, 3.735900255813675, 2.164607027096721]
+max_len: 1428
+elapsed: 43.43824338912964  Score: 3.3085  Scores: [2.7104550885101744, 3.18498668938983, 3.2563937874950875, 3.983096214439121, 3.4111429833254023, 3.3051525896610277]
+max_len: 1428
+elapsed: 110.5137996673584  Score: 3.2142  Scores: [3.377138175547078, 3.711792513996053, 4.0352413786281565, 3.295149905123377, 2.0241542040560643, 2.841526086874699]
+elapsed: 11.177394151687622  Score: 3.1323  Scores: [3.7539355584864897, 3.094801567802303, 2.7405279825195805, 2.8591603427235626, 2.927885993740894, 3.41733835531355]
+elapsed: 27.29944133758545  Score: 3.7603  Scores: [4.019410587285926, 4.035365192409194, 3.7488059288097046, 3.4460754424582127, 3.4625549764140087, 3.8497767053320486]
+elapsed: 27.863264560699463  Score: 3.6589  Scores: [2.7855958617901693, 3.955576371174531, 3.938891820191954, 3.8134204436596653, 3.6156779976964626, 3.844067703913483]
+elapsed: 16.201063871383667  Score: 3.3049  Scores: [4.188660078544425, 3.140570045036355, 3.5861083678193677, 3.2966044270557844, 2.98564583450411, 2.6317770694855227]
+elapsed: 40.80005621910095  Score: 3.3976  Scores: [3.5326663392009343, 2.4841989677392315, 3.9572062799880388, 4.510288152035644, 3.7359962319798417, 2.1650111826640863]
+max_len: 1428
+elapsed: 44.06796646118164  Score: 3.3085  Scores: [2.7100012930429966, 3.1858331552865593, 3.2566672216537587, 3.983213234908664, 3.412062458369328, 3.303055439612082]
+max_len: 1428
+elapsed: 111.80955457687378  Score: 3.2147  Scores: [3.3789283944826183, 3.711198932297759, 4.035150146937849, 3.2951366483956708, 2.0268139973119936, 2.840735882017377]
+elapsed: 11.73144817352295  Score: 3.1321  Scores: [3.755050828954749, 3.0919777268486435, 2.741180518952002, 2.857111586436678, 2.9292362321225984, 3.4181412980571215]
+elapsed: 27.563177824020386  Score: 3.7602  Scores: [4.020820372951985, 4.034190765923695, 3.7484433911586645, 3.4446212295874084, 3.4635531553551515, 3.8496319338207705]
+elapsed: 28.125611782073975  Score: 3.6597  Scores: [2.7855549899264087, 3.9567111597548523, 3.938055174385223, 3.8150822388993495, 3.616463435583195, 3.8462393662020187]
+elapsed: 16.507441997528076  Score: 3.3053  Scores: [4.189366556683397, 3.1404622183666215, 3.5872055369408113, 3.2943974480227514, 2.986691722049359, 2.6336622350659105]
+elapsed: 40.79334497451782  Score: 3.3976  Scores: [3.5330813290614906, 2.482451415724327, 3.9579505371385695, 4.510378544907001, 3.736975546439803, 2.164497327535649]
+max_len: 1428
+elapsed: 44.47315049171448  Score: 3.3081  Scores: [2.7091930602315735, 3.1844196000087868, 3.256905202878155, 3.982929456934734, 3.411475831725552, 3.303841053275121]
+max_len: 1428
+elapsed: 111.98911023139954  Score: 3.2146  Scores: [3.376421135931716, 3.7121638654963007, 4.035227678804273, 3.294615624221308, 2.0260435325617343, 2.842967432958317]
+elapsed: 11.590355634689331  Score: 3.1313  Scores: [3.7546700640759423, 3.09389367890284, 2.740966472313853, 2.8575229758086778, 2.9258326941654054, 3.4147564395814047]
+elapsed: 27.822850227355957  Score: 3.7597  Scores: [4.017759255927531, 4.0353410755725, 3.748380566036531, 3.4450917365945575, 3.4630043886190287, 3.848584386519767]
+elapsed: 28.360772371292114  Score: 3.6589  Scores: [2.7845300633162675, 3.9567544663101093, 3.937655217884787, 3.813896639935685, 3.6146414919454672, 3.846009283753556]
+elapsed: 16.791728734970093  Score: 3.3043  Scores: [4.188686765041497, 3.14091200074416, 3.584710019196666, 3.296024380003265, 2.9839692110667744, 2.6317175928869334]
+elapsed: 40.97490453720093  Score: 3.3976  Scores: [3.5342146406250157, 2.4818768535645996, 3.9581416223453907, 4.51109967110606, 3.7379799969510086, 2.1624595441589127]
+max_len: 1428
+elapsed: 43.39129567146301  Score: 3.3086  Scores: [2.711697269981135, 3.184855367994618, 3.256030907632739, 3.9831280784792367, 3.4109450857385766, 3.3048725535259416]
+max_len: 1428
+elapsed: 112.01381802558899  Score: 3.2138  Scores: [3.375984003329551, 3.712140413921993, 4.034811762813936, 3.294673531669754, 2.024070932356802, 2.8412715201455514]
+========== fold: 2 training ==========
+elapsed: 12.05290412902832  Score: 3.1269  Scores: [2.334321319318861, 3.741329542892703, 3.4449567257428386, 2.3909065418283766, 2.4776722380664538, 4.37232083997665]
+elapsed: 27.882524013519287  Score: 3.4661  Scores: [2.864012762876509, 3.62480998426044, 3.723598145365206, 3.4974495151575655, 3.817801518667669, 3.2689710058822166]
+elapsed: 28.856977939605713  Score: 3.4001  Scores: [2.8937883532803177, 2.806012119836329, 3.4113653140571887, 3.613752848449879, 3.2087890281684124, 4.466716233561859]
+elapsed: 16.805835247039795  Score: 3.0872  Scores: [2.8935821960812964, 3.502729075827848, 2.9639274178967776, 4.14119548486895, 3.449911655618249, 1.5721118203943916]
+elapsed: 40.85273218154907  Score: 3.3455  Scores: [2.3192726380424196, 3.845213879098669, 3.2129117224150128, 3.710586020465857, 3.74435118833896, 3.240383405293832]
+max_len: 1428
+elapsed: 39.365943908691406  Score: 3.1759  Scores: [2.5615283883958586, 3.8809978742834152, 2.7558369732693677, 2.67880024839251, 3.5865522083502097, 3.591477403430364]
+max_len: 1428
+elapsed: 98.72113633155823  Score: 3.5402  Scores: [3.574520558205308, 3.677513360503781, 2.897601087880457, 4.016432512001414, 3.5315771731712333, 3.5433563625375397]
+elapsed: 12.202374696731567  Score: 3.1272  Scores: [2.334732699910881, 3.7399310170804965, 3.445458871897802, 2.39242529301324, 2.4774044770613126, 4.373063752003338]
+elapsed: 27.934488773345947  Score: 3.4664  Scores: [2.8665963536701544, 3.626840407444882, 3.722593580019225, 3.496375777011127, 3.8164696068888144, 3.2694314809410714]
+elapsed: 28.583985805511475  Score: 3.4001  Scores: [2.895576073295282, 2.807133776121134, 3.410705264521291, 3.612941899111437, 3.208065308113726, 4.466292846427238]
+elapsed: 16.777072191238403  Score: 3.0877  Scores: [2.893657434685913, 3.5033286333954456, 2.9639541640479496, 4.142412136441369, 3.4503849813029674, 1.5723296609908142]
+elapsed: 41.11560010910034  Score: 3.3446  Scores: [2.315601088302005, 3.8460631159622443, 3.2118402681595533, 3.7110876144988048, 3.7431551577377227, 3.240060862277043]
+max_len: 1428
+elapsed: 40.75742506980896  Score: 3.1762  Scores: [2.5650677459889795, 3.8805065276655917, 2.7551475531734457, 2.6793716790133617, 3.584514138671844, 3.592641397312811]
+max_len: 1428
+elapsed: 103.1037859916687  Score: 3.5398  Scores: [3.5761683902845594, 3.6758590880447413, 2.8975734449871435, 4.0177487371230916, 3.5295457014708433, 3.5418814898453768]
+elapsed: 11.520978450775146  Score: 3.1270  Scores: [2.334062712440969, 3.7421697944767387, 3.445708926448738, 2.391725836388717, 2.4760069992195515, 4.372143293639638]
+elapsed: 28.146316289901733  Score: 3.4675  Scores: [2.86821936283751, 3.629223111925629, 3.723477684451458, 3.496943073542969, 3.8182128199944008, 3.2687527304415]
+elapsed: 28.825280904769897  Score: 3.4001  Scores: [2.895030943680186, 2.8053905856945875, 3.4127324345111085, 3.612140944612369, 3.207042031965104, 4.468016219960587]
+elapsed: 17.374024152755737  Score: 3.0878  Scores: [2.8928217717142832, 3.503045467473263, 2.9661656380231203, 4.141798962538024, 3.450579453829644, 1.5725821077037743]
+elapsed: 41.665709257125854  Score: 3.3452  Scores: [2.316659461613446, 3.8475315666931857, 3.2105903966156992, 3.710302753399342, 3.7443222113874683, 3.241586007204352]
+max_len: 1428
+elapsed: 41.24304747581482  Score: 3.1760  Scores: [2.561472188374966, 3.882353593115364, 2.7525771578237013, 2.679874479514772, 3.584972057302302, 3.594458157370491]
+max_len: 1428
+elapsed: 103.17370200157166  Score: 3.5400  Scores: [3.575740438772935, 3.6755524825906574, 2.8976393430675587, 4.017181372891726, 3.530633303285774, 3.5433325080411593]
+elapsed: 11.980469465255737  Score: 3.1260  Scores: [2.3348181274895974, 3.7402873083063173, 3.4454058001486767, 2.390181858976102, 2.471446117404384, 4.3739517408027915]
+elapsed: 27.688899278640747  Score: 3.4677  Scores: [2.868539445459764, 3.6280580803655, 3.7241109419529286, 3.4975345747943503, 3.8193519332419767, 3.268747490415515]
+elapsed: 29.405943393707275  Score: 3.4003  Scores: [2.8952776391015185, 2.805326202528149, 3.4114175400369184, 3.6123512783083394, 3.2088653292466547, 4.468282517114228]
+elapsed: 16.84566044807434  Score: 3.0874  Scores: [2.8916099506314534, 3.4995269020796607, 2.963800211761256, 4.142353513233856, 3.449047185200451, 1.5777641404067853]
+elapsed: 41.46810960769653  Score: 3.3453  Scores: [2.317592183233001, 3.846836454062569, 3.2124268194293792, 3.7085764505099474, 3.7458631841166725, 3.2405883410658753]
+max_len: 1428
+elapsed: 40.65515112876892  Score: 3.1763  Scores: [2.55991076761177, 3.883343701972156, 2.753948238686861, 2.680219404124143, 3.586013933558863, 3.59458769833776]
+max_len: 1428
+elapsed: 102.26897072792053  Score: 3.5405  Scores: [3.5716925024759942, 3.6749618252818537, 2.899762644183445, 4.017618629208316, 3.533645847326742, 3.545156905706432]
+========== fold: 3 training ==========
+elapsed: 12.147891521453857  Score: 3.0567  Scores: [3.663733776054511, 3.1852697246426795, 2.240390212614383, 2.9025899172593075, 2.726139200782502, 3.6219479488314983]
+elapsed: 27.980010509490967  Score: 3.4627  Scores: [2.2012047746357117, 3.9955759345123845, 4.568392801183497, 3.4079913267244284, 3.251445274415399, 3.3515032932408233]
+elapsed: 28.493346691131592  Score: 3.1795  Scores: [2.8983373968733894, 3.392817918772087, 3.8077030971739996, 3.2467368605582267, 2.784809103240477, 2.9467259852159815]
+elapsed: 15.678009033203125  Score: 3.3185  Scores: [3.9782101072474023, 2.6996998816861555, 4.094314345179879, 4.0534123697178845, 2.75228370879938, 2.332821188556241]
+elapsed: 41.215856313705444  Score: 3.0985  Scores: [2.8218408670001485, 2.599063884222198, 2.773077014777254, 3.5931751796237603, 3.719532860227521, 3.084162481293069]
+max_len: 1428
+elapsed: 39.840765953063965  Score: 3.6664  Scores: [3.4456029010934524, 3.849227348781713, 4.12880618752118, 3.7578266964358424, 3.3651419286058575, 3.451668062463588]
+max_len: 1428
+elapsed: 101.19673109054565  Score: 3.1809  Scores: [3.1810037170815018, 2.693435585427442, 3.218782140270236, 2.9033272111893504, 3.4035362652615353, 3.6854260276266118]
+elapsed: 10.866888761520386  Score: 3.0573  Scores: [3.6632973000349676, 3.188882330555988, 2.2386429178642717, 2.9011024577890923, 2.729825628191551, 3.6221966848118075]
+elapsed: 27.856837511062622  Score: 3.4626  Scores: [2.199090512142569, 3.9954504453307798, 4.568216860091695, 3.406951059074818, 3.2521656940113157, 3.353887084527204]
+elapsed: 28.694850206375122  Score: 3.1786  Scores: [2.895033514548799, 3.3915144072236743, 3.8061273641593703, 3.2462126347050115, 2.78275969941096, 2.950197785146657]
+elapsed: 17.245713233947754  Score: 3.3191  Scores: [3.9762633248685466, 2.7032200575593137, 4.09503281440732, 4.049693422380529, 2.7543521065550323, 2.3360473882779127]
+elapsed: 41.18447661399841  Score: 3.0980  Scores: [2.8216974599482514, 2.598065487470264, 2.7723484396061027, 3.594889004796943, 3.7162444228616374, 3.0850155058902753]
+max_len: 1428
+elapsed: 40.911447286605835  Score: 3.6662  Scores: [3.4450771238013087, 3.849613490839285, 4.128563487956266, 3.7555103228734326, 3.365792431536333, 3.4525604928248477]
+max_len: 1428
+elapsed: 102.06092500686646  Score: 3.1808  Scores: [3.1819096949047503, 2.692902582056186, 3.2206023377575637, 2.9050075163816618, 3.40166749535595, 3.6828280463748846]
+elapsed: 11.008990287780762  Score: 3.0570  Scores: [3.6632254154396597, 3.1872587764600637, 2.2390596359333124, 2.901239860655309, 2.729527837063512, 3.6217998676373373]
+elapsed: 27.96218490600586  Score: 3.4628  Scores: [2.2036910456876697, 3.995572782976257, 4.5676605836598085, 3.40773220901698, 3.2512345182290083, 3.3509590665380564]
+elapsed: 28.52738356590271  Score: 3.1787  Scores: [2.897260715374684, 3.3931857675803965, 3.8044555058878484, 3.2464625035055437, 2.781867460189569, 2.9490403153624354]
+elapsed: 16.768659114837646  Score: 3.3192  Scores: [3.978487251499749, 2.7021382374958343, 4.095939003026145, 4.048281052040433, 2.7556015117199935, 2.334661576540981]
+elapsed: 41.19133687019348  Score: 3.0974  Scores: [2.8204263927064037, 2.597461790984808, 2.7705121994694006, 3.5944102971443854, 3.7167113399115195, 3.084769156076089]
+max_len: 1428
+elapsed: 40.02960753440857  Score: 3.6663  Scores: [3.4443609130778374, 3.85055866070659, 4.128689332943509, 3.7571056878930755, 3.3660474288052455, 3.451097308246258]
+max_len: 1428
+elapsed: 103.2698974609375  Score: 3.1813  Scores: [3.1853889218518536, 2.690591479599389, 3.2219827634996814, 2.9038356206297387, 3.401888569101409, 3.6841884533075957]
+elapsed: 10.996177673339844  Score: 3.0576  Scores: [3.6632892647160493, 3.1900292933726098, 2.2410448394673885, 2.8994493561611865, 2.7294851785514878, 3.6222913476045844]
+elapsed: 28.702343463897705  Score: 3.4624  Scores: [2.201487200277172, 3.9945549633575053, 4.567623559023513, 3.4064811709672114, 3.2521623070835592, 3.3519538527817767]
+elapsed: 28.976415157318115  Score: 3.1790  Scores: [2.8969127800940933, 3.3925671961126858, 3.8052400732547094, 3.2473997776883072, 2.7826984559743346, 2.94910532210666]
+elapsed: 17.930043935775757  Score: 3.3201  Scores: [3.977478913996982, 2.704454098266126, 4.094939787962114, 4.047322913463416, 2.7582130588886664, 2.337957620178888]
+elapsed: 41.45131492614746  Score: 3.0975  Scores: [2.8214228267923662, 2.5973676706238202, 2.770775023813138, 3.593619009949903, 3.716358734316442, 3.0852939356713778]
+max_len: 1428
+elapsed: 41.16999316215515  Score: 3.6664  Scores: [3.4439139307069104, 3.8517171761961153, 4.1275506505719886, 3.7567927224722393, 3.3678975034369145, 3.450473907709805]
+max_len: 1428
+elapsed: 101.74770736694336  Score: 3.1804  Scores: [3.1830975102245613, 2.6907859219490624, 3.2224017706299626, 2.9038977644299684, 3.400100088378186, 3.6819568811642505]

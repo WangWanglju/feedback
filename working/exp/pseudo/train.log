@@ -1,0 +1,55 @@
+max_len: 1778
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+max_len: 1778
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+max_len: 1778
+Using 1 GPUs
+Namespace(local_rank=0, opts=[], skip_test=False)
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.24.0",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.0514  avg_val_loss: 0.1041  time: 1076s
+Epoch 1 - Score: 0.4563  Scores: [0.4768933095337376, 0.44246797546409866, 0.4058515299024753, 0.49570594031759363, 0.47586534591863144, 0.4409261853355894]
+Epoch 1 - Save Best Score: 0.4563 Model
+Epoch 2 - avg_train_loss: 0.0258  avg_val_loss: 0.0975  time: 1077s
+Epoch 2 - Score: 0.4417  Scores: [0.47858469799136344, 0.4314133447063206, 0.4022261667176424, 0.44482056721673163, 0.45877392101780995, 0.4342165131822937]
+Epoch 2 - Save Best Score: 0.4417 Model
+Epoch 3 - avg_train_loss: 0.0234  avg_val_loss: 0.0984  time: 1063s
+Epoch 3 - Score: 0.4440  Scores: [0.4761887012676053, 0.44123575905894347, 0.4032829352901509, 0.44582297130866844, 0.46226418321290286, 0.4351895961385909]

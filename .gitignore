@@ -1,0 +1,11 @@
+#file
+*pth
+*tar.gz
+
+*pkl
+
+
+#dir
+__pycache__
+.ipynb_checkpoints
+*bert*
