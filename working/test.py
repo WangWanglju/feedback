@@ -43,7 +43,7 @@ from transformers import get_linear_schedule_with_warmup, get_cosine_schedule_wi
 from torch.utils.data.distributed import DistributedSampler
 
 from dataset import collate, TrainDataset
-from utils import MCRMSE, get_score, get_logger, seed_everything, AverageMeter, timeSince, synchronize
+from utils import MCRMSE, get_score, get_logger, seed_everything, AverageMeter, timeSince, synchronize, revise_checkpoints
 from model import CustomModel
 
 import argparse
@@ -181,9 +181,15 @@ def infer_fn(folds, fold, local_rank, distribution, world_size):
     # model & optimizer
     # ====================================================
     model = CustomModel(CFG, config_path=None, pretrained=False)
-    print('model loading...',OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth")
-    state = torch.load(OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
-                       map_location=torch.device('cpu'))
+    if CFG.swa:
+        print('model loading...', OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_swa.pth")
+        state = torch.load(OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_swa.pth",
+                    map_location=torch.device('cpu'))
+        state['model'] = revise_checkpoints(state['model'])
+    else:
+        print('model loading...', OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth")
+        state = torch.load(OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
+                    map_location=torch.device('cpu'))
     
     model.load_state_dict(state['model'])
     model.to(device) 

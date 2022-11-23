@@ -4,7 +4,7 @@
 class CFG:
     wandb=False
     competition='FB3'
-    EXP_NAME='deberta-v3-base'
+    EXP_NAME='pseudo'
     debug=False
     apex=True
     print_freq=20
@@ -26,19 +26,19 @@ class CFG:
     min_lr=1e-6
     eps=1e-6
     betas=(0.9, 0.999)
-    batch_size=8
+    batch_size=12
     max_len=512
     weight_decay=0.01
     llrd=0.9
     fgm = False
     #swa
-    swa = True
+    swa = False
     swa_start = 4
     swa_learning_rate = 1e-6
     anneal_epochs=2 
     anneal_strategy='cos'
     #awp
-    awp = True
+    awp = False
     awp_eps = 1e-2
     awp_lr = 1e-5
     nth_awp_start_epoch = 1

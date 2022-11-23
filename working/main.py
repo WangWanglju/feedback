@@ -58,6 +58,7 @@ def load_data():
     # Data Loading
     # ====================================================
     train = pd.read_csv('../input/feedback-prize-english-language-learning/train.csv')
+    train['valid'] = True
     test = pd.read_csv('../input/feedback-prize-english-language-learning/test.csv')
     submission = pd.read_csv('../input/feedback-prize-english-language-learning/sample_submission.csv')
 
@@ -410,8 +411,8 @@ def train_loop(folds, fold, local_rank, distribution, world_size):
     # loader
     # ====================================================
     train_folds = folds[folds['fold'] != fold].reset_index(drop=True)
-    # valid_folds = folds[(folds['fold'] == fold) & (folds['valid'] == True)].reset_index(drop=True)
-    valid_folds = folds[folds['fold'] == fold].reset_index(drop=True)
+    valid_folds = folds[(folds['fold'] == fold) & (folds['valid'] == True)].reset_index(drop=True)
+    # valid_folds = folds[folds['fold'] == fold].reset_index(drop=True)
 
     valid_labels = valid_folds[CFG.target_cols].values
     
@@ -487,8 +488,8 @@ def train_loop(folds, fold, local_rank, distribution, world_size):
     # ====================================================
     # loop
     # ====================================================
-    # criterion = nn.SmoothL1Loss(reduction='mean') # RMSELoss(reduction="mean")
-    criterion = nn.MSELoss(reduction="mean")
+    criterion = nn.SmoothL1Loss(reduction='mean') # RMSELoss(reduction="mean")
+    # criterion = nn.MSELoss(reduction="mean")
     
     best_score = np.inf
 
@@ -580,11 +581,17 @@ def test_fn(folds, fold, local_rank, distribution, world_size):
     # model & optimizer
     # ====================================================
     model = CustomModel(CFG, config_path=None, pretrained=False)
-    print('model loading...', OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_swa.pth")
-    state = torch.load(OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_swa.pth",
-                    map_location=torch.device('cpu'))
+
     if CFG.swa:
+        print('model loading...', OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_swa.pth")
+        state = torch.load(OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_swa.pth",
+                    map_location=torch.device('cpu'))
         state['model'] = revise_checkpoints(state['model'])
+    else:
+        print('model loading...', OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth")
+        state = torch.load(OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
+                    map_location=torch.device('cpu'))
+                    
     model.load_state_dict(state['model'])
 
     model.to(device) 
@@ -682,12 +689,17 @@ if __name__ == '__main__':
         oof_df = pd.DataFrame()
         for fold in range(CFG.n_fold):
             if fold in CFG.trn_fold:
-                # train_sub = pd.read_csv('../input/feedback-prize-english-language-learning/train_sub.csv')
+                train_sub = pd.read_csv('../input/feedback-prize-english-language-learning/fulldata_labels.csv')
                 # train_sub['fold'] = 5
-                # train_sub[[f'{col}' for col in CFG.target_cols]] = train_sub[[f'pred_{col}_{fold}' for col in CFG.target_cols]]
-                # train = pd.concat([train, train_sub])
+                train_sub[[f'{col}' for col in CFG.target_cols]] = train_sub[[f'pred_{col}_{fold}' for col in CFG.target_cols]]
+                need_columns = ['text_id', 'full_text','fold'] + [f'{col}' for col in CFG.target_cols]
+                train_sub = train_sub[need_columns]
+                train_sub['valid'] = False
+                # train_sub = train_sub.sample(frac=0.5)
+                print('the number of extra data:', train_sub.shape[0])
+                train_new = pd.concat([train, train_sub])
 
-                _oof_df = train_loop(train, fold, args.local_rank, distributed, num_gpus)
+                _oof_df = train_loop(train_new, fold, args.local_rank, distributed, num_gpus)
                 if local_rank == 0:
                     oof_df = pd.concat([oof_df, _oof_df])
                     LOGGER.info(f"========== fold: {fold} result ==========")

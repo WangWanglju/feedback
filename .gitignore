@@ -1,11 +1,11 @@
 #file
 *pth
 *tar.gz
-
+*zip
 *pkl
 
 
 #dir
 __pycache__
 .ipynb_checkpoints
-*bert*
+
